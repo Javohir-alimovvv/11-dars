@@ -1,0 +1,67 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: aqua;
+}
+
+.box {
+    width: 490px;
+    height: 600px;
+    background-color: white;
+    border-radius: 100px 0px;
+    margin-top: 60px;
+}
+
+.h2_text {
+    color: rgb(11, 209, 209);
+    text-align: center;
+    padding: 60px;
+    font-size: 37px;
+}
+
+.your {
+    width: 430px;
+    height: 35px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    border: transparent;
+    border-bottom: 1px solid black;
+}
+
+.pass {
+    width: 430px;
+    height: 35px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    border: transparent;
+    border-bottom: 1px solid black;
+}
+
+.checkbox {
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    width: 430px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: dodgerblue;
+    border: transparent;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.text_6 {
+    margin-left: 150px;
+}
+
+.text_p {
+    color: blue;
+}

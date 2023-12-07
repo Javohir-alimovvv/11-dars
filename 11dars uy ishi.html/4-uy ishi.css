@@ -1,0 +1,48 @@
+*{
+    margin:0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: green;
+}
+.container{
+    margin:0 auto;
+    width: 300px;
+    height: 230px;
+    background-color: white;
+    margin-top: 100px;
+}
+.text-one{
+    width: 260px;
+    height: 35px;
+    border: transparent;
+    background-color: rgb(243, 239, 239);
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+.pass-one{
+    width: 260px;
+    height: 35px;
+    border: transparent;
+    background-color: rgb(243, 239, 239);
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+.btn-one{
+    width: 260px;
+    height: 35px;
+    background-color: green;
+    color: white;
+    margin-left: 20px;
+    border: transparent;
+    margin-bottom: 15px;
+}
+.text_two{
+    color: grey;
+    margin-left: 20px;
+}
+.text_theree{
+    color: green;
+}
